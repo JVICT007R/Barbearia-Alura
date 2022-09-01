@@ -1,2 +1,2 @@
 # Barbearia-Alura
-Projeto Básico, bootcamp da Oracel + Alura 
+Projeto Básico, Esse foi o projeto do bootcampa da Oracle + Alura a fazer um site de Barbearia do Zero, Toltamente iniciante.
